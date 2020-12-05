@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Greedy_snake:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7fea6319-edba-4b72-967d-482ee51bac6c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kpc36z8gTesUCRO9aabxMyLSWO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="13" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/LandlordService" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\java\Greedy_snake\src" />
+      <recent name="C:\java\Landlord" />
+      <recent name="C:\java\LandlordService\lib" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wowowo.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\java\LandlordService" />
+      <recent name="C:\java\Landlord\src\com\wowowo\model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StartGame">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wowowo.view.Main" />
+      <module name="Landlord" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wowowo.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wowowo.view.Main" />
+      <module name="LandlordService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wowowo.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wowowo.view.Main" />
+      <module name="LandlordService" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.msb.game.StartGame" />
+      <module name="Greedy_snake" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.msb.game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fastjson-1.2.75.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/Landlord/lib/fastjson-1.2.75.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartGame" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JAR Application.fastjson-1.2.75.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7fea6319-edba-4b72-967d-482ee51bac6c" name="Default Changelist" comment="" />
+      <created>1606404257445</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606404257445</updated>
+      <workItem from="1606404258475" duration="146000" />
+      <workItem from="1606404415007" duration="224000" />
+      <workItem from="1606404649713" duration="526000" />
+      <workItem from="1606574489370" duration="158000" />
+      <workItem from="1606574680234" duration="3213000" />
+      <workItem from="1606631558170" duration="1692000" />
+      <workItem from="1606656501270" duration="3456000" />
+      <workItem from="1606745232375" duration="5011000" />
+      <workItem from="1606832991835" duration="773000" />
+      <workItem from="1606834032287" duration="2232000" />
+      <workItem from="1606836601995" duration="1083000" />
+      <workItem from="1606914786386" duration="7605000" />
+      <workItem from="1607004750311" duration="290000" />
+      <workItem from="1607005100021" duration="101000" />
+      <workItem from="1607005285682" duration="143000" />
+      <workItem from="1607005439115" duration="3600000" />
+      <workItem from="1607154345486" duration="286000" />
+      <workItem from="1607154644818" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
