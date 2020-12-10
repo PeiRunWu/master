@@ -21,5 +21,6 @@ public class StartGame {
         jFrame.add(gamePanel);
         //设置窗口
         jFrame.setVisible(true);
+        gamePanel.init();
     }
 }

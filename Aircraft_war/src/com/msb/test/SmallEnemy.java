@@ -19,8 +19,8 @@ public class SmallEnemy {
         random.nextInt(10);
         this.width = Images.EnemyImages.getIconWidth();
         this.height = Images.EnemyImages.getIconHeight();
-        this.SmallEnemyX = random.nextInt(StartGame.width - width / 2);
-        this.SmallEnemyY = -random.nextInt(StartGame.height - height / 2);
+        this.SmallEnemyX = random.nextInt(StartGame.width - (this.width / 2));
+        this.SmallEnemyY = 10;
     }
 
     public int getWidth() {

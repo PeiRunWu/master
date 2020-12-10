@@ -2,7 +2,7 @@ package com.msb.test;
 
 import java.awt.*;
 
-public class bullet {
+public class Bullet {
     //定义子弹的高宽
     private int width;
     private int height;
@@ -10,7 +10,7 @@ public class bullet {
     private int bulletX;
     private int bulletY;
 
-    public bullet(int bulletX,int bulletY) {
+    public Bullet(int bulletX,int bulletY) {
         this.bulletX=bulletX;
         this.bulletY=bulletY;
         this.width=Images.bulletImages.getIconWidth();
