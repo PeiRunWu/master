@@ -1,5 +1,6 @@
 package com.msb.test;
 
+import java.awt.*;
 import java.util.Random;
 
 /**
@@ -21,7 +22,7 @@ public class Enemy {
         Random random = new Random();
         random.nextInt(10);
         this.EnemyX = random.nextInt(StartGame.width - width / 2);
-        this.EnemyY = -random.nextInt(StartGame.height - height / 2);
+        this.EnemyY = 10;
     }
 
     public int getWidth() {
@@ -55,4 +56,12 @@ public class Enemy {
     public void setEnemyY(int enemyY) {
         EnemyY = enemyY;
     }
+
+    public void move(){
+        this.EnemyY +=1;
+    }
+    public void drawImage(Graphics g){
+        g.drawImage(Images.Enemy_planeImages.getImage(),this.EnemyX,this.EnemyY,null);
+    }
+
 }
